@@ -1,13 +1,11 @@
-![hacktoberfest](https://hacktoberfest.com/_next/static/media/logo-hacktoberfest--horizontal.ebc5fdc8.svg)
+# telegram-analysis
+Tools to analyze Telegram groups and channels
 
-# HactoberFest2023
+Please note that groups are as same as channels in Telegram. so you can use this code to get users and messages from any public group or channel. Also if you are a member of a private group or channel you can still get users list and messages from that group.
 
-Hacktoberfest is an annual worldwide event held during the month of October. The event encourages open source developers to contribute to repositories through pull requests (PR).
+A short video tutorial on how to use this script:
+https://www.youtube.com/watch?v=aU1p-F7gDo4&ab_channel=AmirYousefi
 
-[see more here!](https://hacktoberfest.com/)
+A complete tutorial about using this script is available on Medium
 
-![hacklogo](https://hacktoberfest.com/_next/static/media/logo-hacktoberfest--logomark.b91c17d2.svg)
-<br> <br>
-https://github.com/GhadgeGauri/HactoberFest23
-<br>
-Contribute to the above repository also
+https://medium.com/@AmirYousefi/how-to-get-data-from-telegram-82af55268a4b
